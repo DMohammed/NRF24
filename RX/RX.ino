@@ -1,9 +1,3 @@
-/*
-  Create on Sep 8, 2020
-  Create by MohammedDamirchi base of https://github.com/nRF24/RF24
-  https://electropeak.com/learn/
-*/
-
 
 /* 1 ch NRF 24 TRANSMITTER example.
 
