@@ -19,7 +19,7 @@
 
 /*//////////////////////////////////////////////////////*/
 
-#if defined(ARDUINO)
+#if defined(__AVR_ATmega328P__) || defined(__AVR_ATmega328PB__) ||defined(__AVR_ATmega2560__) || defined(__AVR_ATmega1280__)
 #define CSN 10
 #define CE  9
 #elif defined(ESP32)
