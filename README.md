@@ -5,5 +5,5 @@ for Arduino and ESP32
 
 Read https://nrf24.github.io/RF24 for More info
 
-#library
+# Library
 https://github.com/maniacbug/RF24
